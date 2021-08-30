@@ -1,0 +1,17 @@
+<html DOCTYPE>
+<html>
+<head><title>car moving</title>
+<link rel="stylesheet"href="st.css"type="text/css">
+</head>
+<body>
+    <div class="hero">
+        <div class="road"></div>
+
+    </div>
+
+
+
+
+</body>
+
+</html>

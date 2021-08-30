@@ -1,0 +1,31 @@
+<html DOCTYPE>
+<html>
+<head>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+    <h1>WE CAN JOIN OUR EFFORT</h1>
+    <p><font size="14">By ishimwe patrick
+    </p></font><br>
+    Please enter the Firstname:<br> <input type="text"name="fname"size="+15"> <br>
+    Please enter the Secondname:<br><label><input type="text"name="sname"size="+15"></label><br>
+    Please enter the Password: <br> <label> <input type="password"name="p1"size="+15"></label>
+    <br>
+    <div id="navwrapper">
+        <div id="navbar"> <table class="tablewrapper">
+          <tr>
+            <td class="row1">Email or Phone</td>
+          </tr>
+          <tr>
+            <td><input type="text" class="inputtext">
+            </td>
+            
+          </tr></table><br>
+          <div class="main"><a href="igihe.com">Log In</a></div>
+          <ul>
+    <li><a href="homepage.html">Home</a></li>
+    <li><a href="info.html">Contact</a></li>
+    <li><a href="com.html">About us</a></li>
+    <li><a href="facebook.com">Help</a></li>
+</ul>
+</body>

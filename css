@@ -1,0 +1,56 @@
+*{margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul
+{
+    list-style-type: armenian;
+     width:100%;
+    height:18;
+     background: fixed;
+    position:left;
+}
+
+p
+{ 
+color:blue;}
+h1
+{
+    color: chocolate;
+    font-style: oblique;
+    font-size: 45px;
+}
+h2
+{
+    color:tomato;
+}
+body
+{
+    background-color: violet;
+}
+ul li{
+    list-style:none;
+    display: inline-block;
+    text-transform: uppercase;
+    margin:20px;
+    position: relative;
+}
+ul li ::after{
+    content:'';
+    background-color: cornflowerblue;
+    height: 3px;
+    width: 100%;
+    left: 0px;
+    position: absolute;
+    bottom: -10px;
+}  
+ul li a{text-decoration: none;
+    text-transform: uppercase;
+    color: blueviolet;
+    padding: 5px;
+    border: 1px solid #fff
+
+}
+ul li a:hover{
+    background-color: cadetblue;
+}
